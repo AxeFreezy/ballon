@@ -1,5 +1,30 @@
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+.header-button{
+  background-color: #1537bc; 
+  border: none;
+  color: white;
+  padding: 7.5px 16px;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 164px;
+  height: 38px;
+  border-radius:50px;
+
+}
+
 .button {
-    background-color: #4E7EFF;
+    background-color: #304cbd; 
     border: none;
     color: white;
     padding: 15px 32px;
@@ -7,16 +32,26 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    font-weight: bold;
     margin: 4px 2px;
     cursor: pointer;
-    border-radius:15px;
-    width: 140px;
+    border-radius:50px;
+    width: 150x;
     display: flex;
     justify-content: center;
     align-items: center;
     
 
   }
+
+  .button-color-red{
+    background-color: #FF400A;
+  }
+
+  .button-color-orange{
+    background-color: #FF8E00;
+  }
+
 
   .centerbutton {
     margin: auto;
@@ -58,3 +93,11 @@
       width: 100%;
     }
   }
+    @media screen and (max-width: 490px) {
+      .header  {
+        flex-direction: column;
+        float: none;
+        width: 100%;
+      }
+    }
+  
