@@ -108,12 +108,24 @@
   body{
     margin: 0;
   }
+
+  footer {
+    position: fixed;
+    height: 50px;
+    background: #666;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+
+  }
+  
   @media screen and (max-width: 600px) {
     .centerbutton2  {
       flex-direction: column;
       float: none;
     }
-    p{
+    .description-button{
       display: none;
     }
   }
