@@ -6,9 +6,10 @@
     </head>
 <body>
     <form action="https://formsubmit.co/axel.aboyeji@gmail.com" method="POST">
-        <input type="hidden" name="_next" value="https://leroy-du-ballon.netlify.app/thankyou.html">
-        <input type="text" name="name" required>
+        <input type="hidden" name="_next" value="https://leroy-du-ballon.netlify.app/merci.html">
+        <input type="text" name="name" placeholder="Nom et Prénom" required>
         <input type="email" name="email" placeholder="Adresse email" required>
+        <input type="tel" id="phone" name="phone" placeholder="Numéro de téléphone" pattern="^((\+)33|0)[1-9](\d{2}){4}$" required>
         <button type="submit">Send</button>
    </form>
 </body>
