@@ -3,14 +3,25 @@
     <head>
         <meta charset="utf-8">
         <title>Contact Form</title>
+        <link rel="stylesheet"   type="text/css" href="css/contact_form.css" />
+        <link rel="stylesheet"   type="text/css" href="css/style.css" />
     </head>
 <body>
     <form action="https://formsubmit.co/axel.aboyeji@gmail.com" method="POST">
-        <input type="hidden" name="_next" value="https://leroy-du-ballon.netlify.app/merci.html">
-        <input type="text" name="Nom" placeholder="Nom" required>
-        <input type="email" name="Email" placeholder="Adresse email" required>
-        <input type="tel" id="phone" name="Numéro de téléphone" placeholder="Numéro de téléphone" pattern="^((\+)33|0)[1-9](\d{2}){4}$" required>
-        <button type="submit">Send</button>
+        <div class="align-items">
+            <input class="space-between-elements border-radius-input" type="hidden" name="_next" value="https://leroy-du-ballon.netlify.app/merci.html">
+            <br>
+            <input class="space-between-elements border-radius-input" type="text" name="Nom" placeholder="Nom" required>
+            <br>
+            <input class="space-between-elements border-radius-input" type="email" name="Email" placeholder="Adresse email" required>
+            <br>
+            <input class="space-between-elements border-radius-input" type="tel" id="phone" name="Numéro de téléphone" placeholder="Numéro de téléphone" pattern="^((\+)33|0)[1-9](\d{2}){4}$" required>
+            <br>
+            <button class="send-button" type="submit">Send</button>
+        </div>
    </form>
 </body>
+<footer >
+    <p class="center-content color-white-text">Société Leroy du Ballon. Tous les droits sont réservés.</p>
+</footer>
 </html>

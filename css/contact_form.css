@@ -1,0 +1,36 @@
+.space-between-elements{
+  padding:20px;
+  margin: 20px;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
+
+.send-button{
+    background-color: #1537bc; 
+  border: none;
+  color: white;
+  padding: 7.5px 16px;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius:50px;
+}
+
+.border-radius-input{
+    border-radius: 12px;
+}
+
+.align-items{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
