@@ -83,7 +83,7 @@
   
 
   .backgroundimagetechnicien {
-    background-image:   linear-gradient(to right, rgba(255, 246, 252, 0.645), rgba(22, 15, 117, 0.821)),url("D:/ballon/technicien.jpg");
+    background-image:   linear-gradient(to right, rgba(255, 246, 252, 0.645), rgba(22, 15, 117, 0.821)),url("https://leroy-du-ballon.netlify.app/technicien.jpg");
     background-repeat: no-repeat;
     max-width: 100%;
     height: auto;
