@@ -33,4 +33,15 @@
     align-items: center;
 }
 
+.background-image-maison {
+  background-image:   linear-gradient(to right, rgba(255, 246, 252, 0.645), rgba(22, 15, 117, 0.821)),url("D:/ballon/maison.jpg");
+  max-width: 100%;
+  height: auto;
+  width: 100%;
+  max-height: 100%;
+  height: 100%;
+
+}
+
+
 
