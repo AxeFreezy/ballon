@@ -34,7 +34,7 @@
 }
 
 .background-image-maison {
-  background-image:   linear-gradient(to right, rgba(255, 246, 252, 0.645), rgba(22, 15, 117, 0.821)),url("https://leroy-du-ballon.netlify.app/maison.jpg");
+  background-image:   linear-gradient(to right, rgba(255, 246, 252, 0.645), rgba(22, 15, 117, 0.821)),url("https://leroy-du-ballon.fr/maison.jpg");
   max-width: 100%;
   height: auto;
   width: 100%;

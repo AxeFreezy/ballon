@@ -58,7 +58,6 @@
 
   .adjust-content {
     margin: auto;
-    border: 3px solid #4E7EFF;
     box-sizing: border-box;
     padding: 10px;
     flex-direction: column;
@@ -74,7 +73,6 @@
   }
   .centerbutton2 {
     margin: auto;
-    border: 3px solid #4E7EFF;
     box-sizing: border-box;
     padding: 10px;
 
@@ -83,7 +81,7 @@
   
 
   .backgroundimagetechnicien {
-    background-image:   linear-gradient(to right, rgba(255, 246, 252, 0.645), rgba(22, 15, 117, 0.821)),url("https://leroy-du-ballon.netlify.app/technicien.jpg");
+    background-image:   linear-gradient(to right, rgba(255, 246, 252, 0.645), rgba(22, 15, 117, 0.821)),url("https://leroy-du-ballon.fr/technicien.jpg");
     background-repeat: no-repeat;
     max-width: 100%;
     height: auto;
@@ -105,6 +103,13 @@
   body{
     margin: 0;
   }
+
+  #resize-maison-accueil {
+    width: 100%;
+    height: 788px;
+    max-width: 100%;
+    background-image:   linear-gradient(to right, rgba(255, 246, 252, 0.645), rgba(22, 15, 117, 0.821)),url("https://leroy-du-ballon.fr/maison-accueil.jpg");
+    }
 
   footer {
     position: fixed;
