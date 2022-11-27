@@ -56,6 +56,10 @@
     justify-content: center;
   }
 
+  .description-button {
+    font-weight: 600;
+  }
+
   .adjust-content {
     margin: auto;
     box-sizing: border-box;
