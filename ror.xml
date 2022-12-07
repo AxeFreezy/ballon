@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://www.leroy-du-ballon.fr/</title>
+  <link>https://www.leroy-du-ballon.fr/</link>
+
+<item>
+     <link>https://www.leroy-du-ballon.fr/</link>
+     <title></title>
+     <description>Site d'installation de chauffe-eau dans le 77 avec possibilité de laisser ses coordonnées,faire un devis/passer commande en ligne, appeler le plombier</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.leroy-du-ballon.fr/index.html</link>
+     <title></title>
+     <description>Site d'installation de chauffe-eau dans le 77 avec possibilité de laisser ses coordonnées,faire un devis/passer commande en ligne, appeler le plombier</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.leroy-du-ballon.fr/contact_form.html</link>
+     <title>Contact Form</title>
+     <description>Site d'installation de chauffe-eau dans le 77 avec possibilité de laisser ses coordonnées,faire un devis/passer commande en ligne, appeler le plombier</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.leroy-du-ballon.fr/boutique.html</link>
+     <title></title>
+     <description>Site d'installation de chauffe-eau dans le 77 avec possibilité de laisser ses coordonnées,faire un devis/passer commande en ligne, appeler le plombier</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
