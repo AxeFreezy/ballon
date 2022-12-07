@@ -60,6 +60,10 @@
     font-weight: 600;
   }
 
+  .description-leroy-du-ballon {
+    font-weight: 600;
+  }
+
   .adjust-content {
     margin: auto;
     box-sizing: border-box;
@@ -94,7 +98,6 @@
 
   .backgroundimagetechnicien {
     background-image:   linear-gradient(to right, rgba(255, 246, 252, 0.645), rgba(22, 15, 117, 0.821)),url("https://leroy-du-ballon.fr/technicien.jpg");
-    background-repeat: no-repeat;
     max-width: 100%;
     height: auto;
     width: 100%;
