@@ -72,7 +72,7 @@
   }
 
   .widthDiv{
-    width: 400px;
+    width: 600px;
     height: 400px;
     padding-bottom: 75px;
   }
@@ -87,7 +87,9 @@
     padding: 10px;
 
   }
-
+  .font-size-description-leroy {
+    font-size: 18.5px;
+  }
   
 
   .backgroundimagetechnicien {
